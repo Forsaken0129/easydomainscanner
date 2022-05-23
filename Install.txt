@@ -1,4 +1,4 @@
-1. git clone
+1. git clone https://github.com/Forsaken0129/easydomainscanner
 2. install python requirements for running this tool in any environment by using below command in your terminal 
 Command> pip3 install -r rewuirements.txt or pip install -r requirements.txt {use in your terminal }
 ***********************************************************************************************************************************

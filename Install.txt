@@ -3,4 +3,3 @@
 Command> pip3 install -r requirements.txt or pip install -r requirements.txt {use in your terminal }
 Usage:-
 We just need to run EDS.py file only to run this tool
-Command> python3 eds.py Domain   {In domain place we have to enter the domain name for testing like this python3 eds.py tesla.com}

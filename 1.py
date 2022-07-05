@@ -18,5 +18,4 @@ for i, arg in enumerate(sys.argv, 1):
 			if not domain in domains:
 				domains.add(domain)
 				print(domain)
-file=open('output.txt','a') as f:
-print("domain", file=f)
+

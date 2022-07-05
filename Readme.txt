@@ -1,5 +1,4 @@
-This is EasyDomainScanner tool which will help  you to find hidden domains for testing purpose and XSS{Cross Site Scripting Vulnerabiltiy}Check also in one go.
-
+This is EasyDomainScanner tool which will help  you to find hidden domains for testing purpose.
 Made By Eshan Sharma//Mahir Khurana//Yash Kumar.
 
 Please Read Installation instruction and usage also. 

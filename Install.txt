@@ -4,5 +4,3 @@ Command> pip3 install -r requirements.txt or pip install -r requirements.txt {us
 Usage:-
 We just need to run EDS.py file only to run this tool
 Command> python3 eds.py Domain   {In domain place we have to enter the domain name for testing like this python3 eds.py tesla.com}
-3.After scanning domain it will make list of domain and those domains also which are showing 200OK response or those are live working which will make easy to test
-4. in last it will ask you for scanning XSS Vulnerability if u want to scan just enter the whole url of the target website like this {https://www.facebook.com}

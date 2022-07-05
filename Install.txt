@@ -1,5 +1,5 @@
 1. git clone https://github.com/Forsaken0129/easydomainscanner
 2. install python requirements for running this tool in any environment by using below command in your terminal 
 Command> pip3 install -r requirements.txt or pip install -r requirements.txt {use in your terminal }
-Usage:-
+Usage:-python eds.py
 We just need to run EDS.py file only to run this tool

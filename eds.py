@@ -23,7 +23,7 @@ def banner():
 def opt_ini():
 	
     opt=input("\033[1;39mOption : \033[1;39m")
-    os.chdir('easydomainscanner')
+    #os.chdir('easydomainscanner')
     
     
     if(opt == '1'):
